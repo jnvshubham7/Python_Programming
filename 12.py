@@ -3,3 +3,4 @@ def tri(n):
       print(" "(n-i)+" "*i)
 n=int(input(" Enter number :"))
 tri(n)
+# 
